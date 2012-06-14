@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<events xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" location="Boston, United States" page="1" perPage="10" totalPages="37" total="368" festivalsonly="0" tag="">
+    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3246051</id>
+  <title>Tyler Hilton @ The Middle East</title>
+  <artists>
+    <artist>Tyler Hilton</artist>
+    <artist>Dion Roy</artist>
+    <headliner>Tyler Hilton</headliner>
+  </artists>
+    <venue>
+    <id>9022145</id>
+    <name>The Middle East Upstairs</name>
+    <location>
+      <city>Cambridge, MA</city>
+      <country>United States</country>
+      <street>472 Massachusetts Ave.</street>
+      <postalcode>02139</postalcode>
+      <geo:point>
+         <geo:lat>42.363752</geo:lat>
+         <geo:long>-71.101252</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9022145+The+Middle+East+Upstairs</url>
+    <website>http://www.mideastclub.com/upstairs.html</website>
+    <phonenumber>(617) 864-3278</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/26737523.png</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/26737523.png</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/26737523.png</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/26737523.png</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/26737523/The+Middle+East+Upstairs+MiddleEastUpstairs.png</image>
+  </venue>    <startDate>Sat, 31 Mar 2012 18:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2389499.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2389499.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2389499.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2389499.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3246051</tag>    
+  <url>http://www.last.fm/event/3246051+Tyler+Hilton+%40+The+Middle+East</url>
+  <website>http://www.rockonconcerts.com/event/105841/</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>acoustic</tag>
+      <tag>rock</tag>
+      <tag>singer-songwriter</tag>
+      <tag>one tree hill</tag>
+      <tag>snow patrol</tag>
+      <tag>tyler hilton</tag>
+      <tag>pop</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3117526</id>
+  <title>Metronomy</title>
+  <artists>
+    <artist>Metronomy</artist>
+    <artist>Friends</artist>
+    <headliner>Metronomy</headliner>
+  </artists>
+    <venue>
+    <id>9157314</id>
+    <name>Brighton Music Hall</name>
+    <location>
+      <city></city>
+      <country>United States</country>
+      <street>158 Brighton Avenue</street>
+      <postalcode>02134</postalcode>
+      <geo:point>
+         <geo:lat>42.3529</geo:lat>
+         <geo:long>-71.132613</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9157314+Brighton+Music+Hall</url>
+    <website>http://brightonmusichall.com/</website>
+    <phonenumber></phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Sat, 31 Mar 2012 18:47:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/67704756.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/67704756.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/67704756.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/67704756.png</image>
+  <attendance>40</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3117526</tag>    
+  <url>http://www.last.fm/event/3117526+Metronomy+at+Brighton+Music+Hall+on+31+March+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+      <tag>electronic</tag>
+      <tag>experimental</tag>
+      <tag>80s</tag>
+      <tag>electro</tag>
+      <tag>00s</tag>
+      <tag>indiepop</tag>
+      <tag>sound of leamington spa</tag>
+      <tag>uk</tag>
+      <tag>new rave</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3185920</id>
+  <title>Ben Howard</title>
+  <artists>
+    <artist>Ben Howard</artist>
+    <headliner>Ben Howard</headliner>
+  </artists>
+    <venue>
+    <id>8921934</id>
+    <name>Cafe 939</name>
+    <location>
+      <city>Boston</city>
+      <country>United States</country>
+      <street>939 Boylston St</street>
+      <postalcode>MA 02215</postalcode>
+      <geo:point>
+         <geo:lat>42.34656</geo:lat>
+         <geo:long>-71.090739</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8921934+Cafe+939</url>
+    <website>http://www.cafe939.com/events/index.shtml</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/5426121.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/5426121.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/5426121.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/5426121.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/5426121/Cafe+939+939+sign.jpg</image>
+  </venue>    <startDate>Sat, 31 Mar 2012 19:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/69361986.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/69361986.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/69361986.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/69361986.jpg</image>
+  <attendance>9</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3185920</tag>    
+  <url>http://www.last.fm/event/3185920+Ben+Howard+at+Cafe+939+on+31+March+2012</url>
+  <website>https://www.vendini.com/ticket-software.html?e=c43764c70b6db25c8e57165882c18a39&amp;t=tix</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>folk</tag>
+      <tag>singer-songwriter</tag>
+      <tag>acoustic</tag>
+      <tag>british</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3189962</id>
+  <title>Communion Presents: “The Austin to Boston Tour”</title>
+  <artists>
+    <artist>Ben Howard</artist>
+    <artist>Nathaniel Rateliff</artist>
+    <artist>The Staves</artist>
+    <artist>Bears Den</artist>
+    <headliner>Ben Howard</headliner>
+  </artists>
+    <venue>
+    <id>8921934</id>
+    <name>Cafe 939</name>
+    <location>
+      <city>Boston</city>
+      <country>United States</country>
+      <street>939 Boylston St</street>
+      <postalcode>MA 02215</postalcode>
+      <geo:point>
+         <geo:lat>42.34656</geo:lat>
+         <geo:long>-71.090739</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8921934+Cafe+939</url>
+    <website>http://www.cafe939.com/events/index.shtml</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/5426121.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/5426121.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/5426121.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/5426121.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/5426121/Cafe+939+939+sign.jpg</image>
+  </venue>    <startDate>Sat, 31 Mar 2012 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/69361986.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/69361986.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/69361986.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/69361986.jpg</image>
+  <attendance>5</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3189962</tag>    
+  <url>http://www.last.fm/event/3189962+Communion+Presents%3A+%E2%80%9CThe+Austin+to+Boston+Tour%E2%80%9D</url>
+  <website>http://www.berklee.edu/events/detail/12291/the-communion-tour-ben-howard</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>folk</tag>
+      <tag>singer-songwriter</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3212455</id>
+  <title>Thick as Thieves</title>
+  <artists>
+    <artist>Thick as Thieves</artist>
+    <artist>Tallahassee</artist>
+    <artist>Kingsley Flood</artist>
+    <artist>Spirit Kid</artist>
+    <headliner>Thick as Thieves</headliner>
+  </artists>
+    <venue>
+    <id>9022144</id>
+    <name>The Middle East Downstairs</name>
+    <location>
+      <city>Cambridge</city>
+      <country>United States</country>
+      <street>480 Mass Ave</street>
+      <postalcode>02139</postalcode>
+      <geo:point>
+         <geo:lat>42.354574</geo:lat>
+         <geo:long>-71.091318</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/9022144+The+Middle+East+Downstairs</url>
+    <website>http://www.mideastclub.com/downstairs.html</website>
+    <phonenumber>(617) 864-3278</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/26802617.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/26802617.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/26802617.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/26802617.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/26802617/The+Middle+East+Downstairs+TheMiddleEastDownstairs.jpg</image>
+  </venue>    <startDate>Sat, 31 Mar 2012 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2452016.gif</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2452016.gif</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2452016.gif</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2452016.gif</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3212455</tag>    
+  <url>http://www.last.fm/event/3212455+Thick+as+Thieves+at+The+Middle+East+Downstairs+on+31+March+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>folk</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3110110</id>
+  <title>Wild Flag</title>
+  <artists>
+    <artist>Wild Flag</artist>
+    <artist>Hospitality</artist>
+    <artist>The Labor Pool</artist>
+    <headliner>Wild Flag</headliner>
+  </artists>
+    <venue>
+    <id>8779001</id>
+    <name>Paradise Rock Club</name>
+    <location>
+      <city>Boston</city>
+      <country>United States</country>
+      <street>967 Commonwealth Avenue</street>
+      <postalcode>02215</postalcode>
+      <geo:point>
+         <geo:lat>42.351784</geo:lat>
+         <geo:long>-71.119549</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779001+Paradise+Rock+Club</url>
+    <website>http://www.thedise.com/rockclub/index.html</website>
+    <phonenumber>617-562-8820</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/53862.gif</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/53862.gif</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/53862.gif</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/53862.gif</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/53862/Paradise+Rock+Club.gif</image>
+  </venue>    <startDate>Sat, 31 Mar 2012 21:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/69032414.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/69032414.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/69032414.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/69032414.jpg</image>
+  <attendance>49</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3110110</tag>    
+  <url>http://www.last.fm/event/3110110+Wild+Flag+at+Paradise+Rock+Club+on+31+March+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+      <tag>indie rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3163924</id>
+  <title>Last Builders Of Empire</title>
+  <artists>
+    <artist>Last Builders Of Empire</artist>
+    <headliner>Last Builders Of Empire</headliner>
+  </artists>
+    <venue>
+    <id>8880085</id>
+    <name>Church</name>
+    <location>
+      <city>Boston, MA</city>
+      <country>United States</country>
+      <street>69 Kilmarnock St</street>
+      <postalcode>02215</postalcode>
+      <geo:point>
+         <geo:lat>42.342541</geo:lat>
+         <geo:long>-71.099343</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8880085+Church</url>
+    <website>http://www.churchofboston.com</website>
+    <phonenumber>617-236-7600</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/3374390.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/3374390.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/3374390.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/3374390.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/3374390/Church.jpg</image>
+  </venue>    <startDate>Sat, 31 Mar 2012 21:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Come to our cd-release party on March 31th at Church in Boston!</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/69090670.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/69090670.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/69090670.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/69090670.jpg</image>
+  <attendance>1</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3163924</tag>    
+  <url>http://www.last.fm/event/3163924+Last+Builders+Of+Empire</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>post-rock</tag>
+      <tag>instrumental</tag>
+      <tag>experimental</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3200647</id>
+  <title>Foxy Shazam</title>
+  <artists>
+    <artist>Foxy Shazam</artist>
+    <artist>Maniac</artist>
+    <artist>Cadaver Dogs</artist>
+    <headliner>Foxy Shazam</headliner>
+  </artists>
+    <venue>
+    <id>8779366</id>
+    <name>T.T. the Bear's Place</name>
+    <location>
+      <city>Cambridge</city>
+      <country>United States</country>
+      <street>10 Brookline Street</street>
+      <postalcode>02139</postalcode>
+      <geo:point>
+         <geo:lat>42.363698</geo:lat>
+         <geo:long>-71.101641</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779366+T.T.+the+Bear%27s+Place</url>
+    <website>http://www.ttthebears.com/</website>
+    <phonenumber>617 492-BEAR</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/421802.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/421802.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/421802.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/421802.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/421802/TT+the+Bears+Place.jpg</image>
+  </venue>    <startDate>Sat, 31 Mar 2012 23:06:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/43214695.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/43214695.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/43214695.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/43214695.jpg</image>
+  <attendance>11</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3200647</tag>    
+  <url>http://www.last.fm/event/3200647+Foxy+Shazam+at+T.T.+the+Bear%27s+Place+on+31+March+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>rock</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>1972319</id>
+  <title>The Handel and Haydn Society Presents: Bach's St. Matthew Passion</title>
+  <artists>
+    <artist>Handel And Haydn Society</artist>
+    <artist>Bach</artist>
+    <artist>Handel &amp; Haydn Society</artist>
+    <headliner>Handel And Haydn Society</headliner>
+  </artists>
+    <venue>
+    <id>8799757</id>
+    <name>Symphony Hall</name>
+    <location>
+      <city>Boston, MA</city>
+      <country>United States</country>
+      <street>301 Massachusetts Ave</street>
+      <postalcode>02115</postalcode>
+      <geo:point>
+         <geo:lat>42.342769</geo:lat>
+         <geo:long>-71.084953</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8799757+Symphony+Hall</url>
+    <website>http://www.bso.org/bso/index.jsp?id=bcat5240153</website>
+    <phonenumber>617-266-1492</phonenumber>
+    <image size="small"></image>
+	<image size="medium"></image>
+	<image size="large"></image>
+	<image size="extralarge"></image>
+	<image size="mega"></image>
+  </venue>    <startDate>Sun, 01 Apr 2012 15:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Given its first complete performance in this country by H&amp;H in 1879, the St. Matthew Passion is considered by many to be one of the greatest masterpieces of all time. Bach’s brilliant oratorio is a moving, glorious setting of the Gospel of St. Matthew.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2018675.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2018675.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2018675.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2018675.jpg</image>
+  <attendance>2</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1972319</tag>    
+  <url>http://www.last.fm/event/1972319+The+Handel+and+Haydn+Society+Presents%3A+Bach%27s+St.+Matthew+Passion</url>
+  <website>http://www.handelandhaydn.org/concerts/2011-2012/bach-st-matthew-passion</website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>classical</tag>
+    </tags>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+  <id>3140824</id>
+  <title>of Montreal</title>
+  <artists>
+    <artist>of Montreal</artist>
+    <artist>Loney, dear</artist>
+    <artist>Kishi Bashi</artist>
+    <headliner>of Montreal</headliner>
+  </artists>
+    <venue>
+    <id>8779001</id>
+    <name>Paradise Rock Club</name>
+    <location>
+      <city>Boston</city>
+      <country>United States</country>
+      <street>967 Commonwealth Avenue</street>
+      <postalcode>02215</postalcode>
+      <geo:point>
+         <geo:lat>42.351784</geo:lat>
+         <geo:long>-71.119549</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779001+Paradise+Rock+Club</url>
+    <website>http://www.thedise.com/rockclub/index.html</website>
+    <phonenumber>617-562-8820</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/53862.gif</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/53862.gif</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/53862.gif</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/53862.gif</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/53862/Paradise+Rock+Club.gif</image>
+  </venue>    <startDate>Sun, 01 Apr 2012 20:00:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/13270871.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/13270871.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/13270871.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/13270871.jpg</image>
+  <attendance>50</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3140824</tag>    
+  <url>http://www.last.fm/event/3140824+of+Montreal+at+Paradise+Rock+Club+on+1+April+2012</url>
+  <website></website>
+    <tickets>
+  </tickets>
+    <cancelled>0</cancelled>
+    <tags>
+      <tag>indie</tag>
+      <tag>indie pop</tag>
+    </tags>
+    </event></events></lfm>

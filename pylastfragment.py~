@@ -1,0 +1,111 @@
+class Geo(_BaseObject, _Taggable):
+    """A Geo class"""
+    
+    lat = None
+    lon = None
+    place = None    
+
+    def __init__(self, lat=None, lon=None, place=None):
+        """
+        Create an album instance.
+        # Parameters:
+            * artist: An artist name or an Artist object.
+            * title: The album title.
+        """
+        
+        _BaseObject.__init__(self, network)
+        _Taggable.__init__(self, 'Geo')#may need attention
+
+    	if place is None and (lat is not None and lon is not None):
+        	self.lat = lat
+        	self.lon = lon
+		elif place is not None:
+			self.place = place
+		else:
+			raise Exception("required location or (lat,lon) not provided")
+
+        
+
+
+
+
+
+    def get_upcoming_events(self):
+        """Returns a list of the upcoming Events for this Geolocation object."""
+        
+        doc = self._request('Geo.getEvents', True)
+        
+        ids = _extract_all(doc, 'id')
+        
+        events = []
+        for e_id in ids:#TODO: change this
+            events.append(Event(e_id, self.network))
+        
+        return events
+
+
+
+
+    
+    def __repr__(self):
+        if place is not None:
+            return "pylast.Geo(%s)" %(repr(self.place))
+        else:
+            return "pylast.Geo(%s, %s)" %(repr(self.lat), repr(self.lon))   
+
+    @_string_output
+    def __str__(self):
+        return _unicode("%s - %s") %(self.get_artist().get_name(), self.get_title())
+    
+    def __eq__(self, other):
+        return (self.get_title().lower() == other.get_title().lower()) and (self.get_artist().get_name().lower() == other.get_artist().get_name().lower())
+    
+    def __ne__(self, other):
+        return (self.get_title().lower() != other.get_title().lower()) or (self.get_artist().get_name().lower() != other.get_artist().get_name().lower())
+    
+    def _get_params(self):
+        params = {}
+        if self.place is not None:
+            params['location'] = self.place
+			return params
+        else:
+            params['lat'] = self.lat
+            params['lon'] = self.lon
+			return params
+			
+    def get_lat(self):
+        """Returns the associated Artist object."""
+        return self.lat
+    
+    def get_lon(self):
+        """Returns the album title."""
+        
+        return self.lon
+    
+    def get_lat_lon(self):
+        """Returns the album title (alias to Album.get_title)."""
+        
+        return (self.lat,self.lon)
+
+
+
+
+
+
+
+    def get_events(self):
+        """Returns a sequence of the most played artists."""
+        
+        doc = self._request('Geo.getEvents', True)
+        
+        seq = []
+        for node in doc.getElementsByTagName("artist"):
+            name = _extract(node, 'name')
+            playcount = _extract(node, "playcount")
+        
+            seq.append(TopItem(Artist(name, self.network), playcount))
+        
+        return seq
+
+
+

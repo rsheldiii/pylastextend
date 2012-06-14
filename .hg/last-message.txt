@@ -1,0 +1,1 @@
+XML support for event.get_start_date()

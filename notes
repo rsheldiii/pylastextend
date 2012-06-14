@@ -1,0 +1,5 @@
+where we're going with pylastextend:
+
+1. create optional XML variable in initialize functions of specifically event, so if the data is encountered we don't have to query the lastfm api EVERY time we want a new piece of data
+2. create a way to easily JSONify an event to store in a user's session on our database for easy caching. also should probably make reverse of this function
+
